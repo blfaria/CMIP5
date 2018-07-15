@@ -15,7 +15,7 @@ lim.per = rep(1:5, each = 30*12)
 ###
 ###
 
-diretorio = "~/cmip5/southam/"
+diretorio = "~/CMIP5/southam/"
 
 
 ###
